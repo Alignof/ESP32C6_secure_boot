@@ -76,6 +76,7 @@
             ++ targetLibs
             ++ [
               espflash
+              cargo-generate
               esp-dev.packages.${system}.esp-idf-esp32c6
               python3
               python3Packages.pyserial
