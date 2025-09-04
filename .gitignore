@@ -88,3 +88,6 @@ CMakeUserPresets.json
 #cmake-build-*
 
 sdkconfig.old
+
+# ignore security key
+secure_boot_signing_key.pem
